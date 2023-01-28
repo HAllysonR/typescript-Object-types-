@@ -1,2 +1,2 @@
-# typescript-Object-types
-Códigos sobre object type
+# typescript-Object-type
+Códigos sobre object type, curso de typescript da udemy.
